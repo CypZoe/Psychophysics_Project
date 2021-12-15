@@ -148,7 +148,7 @@ ax.legend((bar1, bar2), ('Still','Move'))
 
 plt.show()
 
-
+quit()
 #Box plot
 fig, ax = plt.subplots()
 box = ax.boxplot([dPrimeList, criterionList])
